@@ -1,6 +1,6 @@
 This is a Next Js Pc Builder Project.
 
-## Live site:
+## Live site: https://pc-builder-web.vercel.app/
 
 ## Getting Started
 

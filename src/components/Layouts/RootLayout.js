@@ -101,8 +101,8 @@ const RootLayout = ({ children }) => {
         >
           {children}
         </Content>
-        <Footer style={{ textAlign: "center" }}>
-          PC Builder ©2023 Created by murad.pi22
+        <Footer style={{ textAlign: "center" ,}}>
+          PC Builder ©2023 Created by Amortha Kumar Shill
         </Footer>
       </Layout>
     </>

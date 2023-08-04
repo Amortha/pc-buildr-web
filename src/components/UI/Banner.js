@@ -1,9 +1,9 @@
 import React from "react";
 import { Carousel, Col, Row } from "antd";
 import Image from "next/image";
-import Banner1 from "../../../public/images/Banner3.jpg";
-import Banner2 from "../../../public/images/Banner1.jpg";
-import Banner3 from "../../../public/images/banner2.jpg";
+import Banner1 from "../../../public/images/banner1.jpg";
+import Banner2 from "../../../public/images/banner2.jpg";
+import Banner3 from "../../../public/images/banner3.jpg";
 const contentStyle = {
   height: "160px",
   color: "#fff",
