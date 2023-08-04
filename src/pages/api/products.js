@@ -3,7 +3,7 @@ import { MongoClient } from "mongodb";
 
 const uri =
 "mongodb+srv://pc-buildadmin:O84Oppop1nhMeMPO@cluster0.ymtlu.mongodb.net/?retryWrites=true&w=majority"
-  // "mongodb+srv://pc-builder-admin:pcbuilder123@cluster0.cxnkxrh.mongodb.net/?retryWrites=true&w=majority";
+  
 
 const client = new MongoClient(uri, {
   serverApi: {
